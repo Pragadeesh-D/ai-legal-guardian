@@ -1,0 +1,25 @@
+# Environment Variables (CRITICAL: Do not push .env)
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and Logs
+data/
+logs/
+contracts/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

@@ -1,0 +1,73 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Non-Disclosure Agreement ("Agreement") is entered into on February 10, 2024, between:
+
+DISCLOSING PARTY: DataSecure Technologies Private Limited
+Registered Office: 5th Floor, Cyber Towers, Hitech City, Hyderabad - 500081, Telangana, India
+CIN: U72200TG2018PTC125678
+("Disclosing Party")
+
+AND
+
+RECEIVING PARTY: CloudVault Systems Private Limited
+Registered Office: Unit 12, IT Park, Bandra Kurla Complex, Mumbai - 400051, Maharashtra, India
+CIN: U72300MH2019PTC134567
+("Receiving Party")
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+"Confidential Information" means any and all information disclosed by the Disclosing Party to the Receiving Party, including but not limited to:
+
+a) Technical Information: Source code, algorithms, software architecture, technical specifications, research and development projects
+
+b) Business Information: Business plans, strategies, financial information, customer lists, supplier information, marketing plans
+
+c) Product Information: Product roadmaps, unreleased features, specifications, beta versions, prototypes
+
+2. OBLIGATIONS OF THE RECEIVING PARTY
+
+2.1 The Receiving Party agrees to:
+- Hold all Confidential Information in strict confidence
+- Protect Confidential Information with reasonable care
+- Not disclose Confidential Information to any third party without prior written consent
+- Use Confidential Information solely for evaluating potential business collaboration
+
+2.2 The Receiving Party may disclose Confidential Information only to employees who have a legitimate need to know and are bound by similar confidentiality obligations.
+
+3. PERMITTED USE
+
+The Receiving Party may use Confidential Information solely for:
+- Evaluating potential business collaboration opportunities
+- Conducting technical due diligence
+- Assessing compatibility of systems and technologies
+- Negotiating definitive agreements for business partnership
+
+4. TERM AND SURVIVAL
+
+4.1 Term: This Agreement shall commence on February 10, 2024, and shall continue for 2 years.
+
+4.2 Survival: The confidentiality obligations shall survive for 5 years from the date of disclosure of the Confidential Information.
+
+5. NO LICENSE OR TRANSFER OF RIGHTS
+
+This Agreement does not grant the Receiving Party any license, right, title, or interest in the Confidential Information or any intellectual property rights therein.
+
+6. REMEDIES
+
+The Receiving Party acknowledges that breach of this Agreement may cause irreparable harm and that the Disclosing Party shall be entitled to seek equitable relief, including injunction and specific performance.
+
+7. GOVERNING LAW AND JURISDICTION
+
+7.1 This Agreement shall be governed by the laws of India.
+
+7.2 Courts of Mumbai, Maharashtra, India shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+FOR DATASECURE TECHNOLOGIES PRIVATE LIMITED:
+Mr. Arun Mehta, Chief Executive Officer
+Date: February 10, 2024
+
+FOR CLOUDVAULT SYSTEMS PRIVATE LIMITED:
+Ms. Kavita Desai, Managing Director
+Date: February 10, 2024
