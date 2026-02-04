@@ -47,7 +47,7 @@
 *   `templates/`: Standard legal templates used for auto-population.
 
 ## 🏆 Hackathon Submission
-Built for HCL Hackathon 2024. Focuses on **Transparency, Speed, and Accessibility** in legal tech.
+Built for HCL Hackathon 2026. Focuses on **Transparency, Speed, and Accessibility** in legal tech.
 
 ---
 *Note: This project uses OpenAI GPT-4o. Ensure you have a valid API key or use the built-in Demo Mode.*
